@@ -1,4 +1,16 @@
 # FILE-HANDLING-UTILITY
+Company:CODTECH IT SOLUTION
+
 Name:Ashwin Pradeep Pai
 
-https://github.com/user-attachments/assets/bedc534f-9433-439c-a662-de0e79bc5c8e)
+Intern Id:CT04DG64
+
+Domain:Java Programming
+
+Duration:4 Week
+
+Mentor:NEELA SANTOSH
+
+OUTPUT:
+
+
